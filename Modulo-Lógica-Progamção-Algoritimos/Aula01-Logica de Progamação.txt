@@ -1,0 +1,17 @@
+Como pensar como um Progamador?
+
+- Pense em etapas,
+- Pense nas ações de cada etapas
+
+----------------------------------------------------------------
+Quero Atravesar a Rua.
+
+1) estar na faixa de pedestre.
+{
+    estou na faixa?
+        os carros pararam?
+            Ação Final: Posso Atravesar
+}
+Não está na faixa de pedestre 
+    temos que ir Para a faixa de pedestre.
+    enquanto não chegar na faixa, continue ate chegar.
